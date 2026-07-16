@@ -84,5 +84,5 @@ Built by Salma and Maya as a capstone project.
 - **EDA
 - **Clustering, classical models, feature importance
 - **ANN, evaluation framework
-- **UI:** Maya (input) / Salma (output)
-- **Documentation:** Maya (README, PM case study) / Salma (results summary)
+- **UI:**(input) / (output)
+- **Documentation:**(README, PM case study) /(results summary)
